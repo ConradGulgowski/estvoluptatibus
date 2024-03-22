@@ -1,0 +1,66 @@
+{
+  "name": "estvoluptatibus",
+  "description": "Create a new object filtered to have only properties for which the callback returns true.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/ConradGulgowski/estvoluptatibus.git",
+  "author": "AbdullahKeeling",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ConradGulgowski/estvoluptatibus.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/jonschlinkert/object.filter/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "devDependencies": {
+    "verb-tag-jscomments": ">= 0.2.0",
+    "verb": ">= 0.2.6",
+    "mocha": "*"
+  },
+  "keywords": [
+    "quae",
+    "filtered",
+    "find",
+    "tempore",
+    "for-in",
+    "consequatur",
+    "sit",
+    "et",
+    "hasown",
+    "in",
+    "javascript",
+    "js",
+    "nesciunt",
+    "reiciendis",
+    "dignissimos",
+    "match",
+    "matching",
+    "node",
+    "node-js",
+    "obj",
+    "object",
+    "corporis",
+    "sed",
+    "quos",
+    "property",
+    "voluptatum",
+    "util",
+    "nesciunt",
+    "ea",
+    "utils",
+    "value"
+  ],
+  "dependencies": {
+    "for-own": "^0.1.2",
+    "make-iterator": "^0.1.0"
+  }
+}
